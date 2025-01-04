@@ -1,0 +1,39 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center"
+    android:background="#272727">
+
+    <EditText
+        android:id="@+id/etEquipmentName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Equipment Name"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/etEquipmentDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint=" Description  Panne "
+        android:inputType="textMultiLine" />
+
+    <EditText
+        android:id="@+id/etEquipmentEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="   entrez your Email "
+        android:inputType="textEmailAddress" /> <!-- This is for email input -->
+
+    <Button
+        android:id="@+id/btnSaveEquipment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Equipment"
+        android:background="#44a6c6"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="10dp" />
+</LinearLayout>

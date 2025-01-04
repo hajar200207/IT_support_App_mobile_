@@ -1,0 +1,18 @@
+com/example/itsupportapp/Success.java
+ com.example.itsupportapp.Success
+ com.example.itsupportapp.Success$1
+ com.example.itsupportapp.Success$2
+ com.example.itsupportapp.Success$3
+ com.example.itsupportapp.Success$4
+com/example/itsupportapp/MainActivity.java
+ com.example.itsupportapp.MainActivity
+ com.example.itsupportapp.MainActivity$1
+ com.example.itsupportapp.MainActivity$2
+ com.example.itsupportapp.MainActivity$3
+com/example/itsupportapp/BuildConfig.java
+ com.example.itsupportapp.BuildConfig
+com/example/itsupportapp/Register.java
+ com.example.itsupportapp.Register
+ com.example.itsupportapp.Register$1
+ com.example.itsupportapp.Register$2
+ com.example.itsupportapp.Register$3
