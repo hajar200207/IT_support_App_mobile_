@@ -11,6 +11,15 @@ com/example/itsupportapp/MainActivity.java
  com.example.itsupportapp.MainActivity$3
 com/example/itsupportapp/BuildConfig.java
  com.example.itsupportapp.BuildConfig
+com/example/itsupportapp/AdminActivity.java
+ com.example.itsupportapp.AdminActivity
+ com.example.itsupportapp.AdminActivity$1
+ com.example.itsupportapp.AdminActivity$1$1
+ com.example.itsupportapp.AdminActivity$2
+ com.example.itsupportapp.AdminActivity$3
+ com.example.itsupportapp.AdminActivity$4
+ com.example.itsupportapp.AdminActivity$5
+ com.example.itsupportapp.AdminActivity$6
 com/example/itsupportapp/Register.java
  com.example.itsupportapp.Register
  com.example.itsupportapp.Register$1
