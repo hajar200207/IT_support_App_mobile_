@@ -21,7 +21,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
-
     private EditText etEmail, etPassword;
     private String email, password;
     private String URL = "http://10.0.2.2/itsupportbackend/login.php";
@@ -43,7 +42,11 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onResponse(String response) {
                     Log.d("res", response);
-                    if (response.equals("success")) {
+                    if (response.equals("admin")) {
+                        Intent intent = new Intent(MainActivity.this, AdminActivity.class);
+                        startActivity(intent);
+                        finish();
+                    } else if (response.equals("success")) {
                         Intent intent = new Intent(MainActivity.this, Success.class);
                         startActivity(intent);
                         finish();

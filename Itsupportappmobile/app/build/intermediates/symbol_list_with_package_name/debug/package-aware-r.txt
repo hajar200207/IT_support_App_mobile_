@@ -1931,6 +1931,7 @@ id center_horizontal
 id center_vertical
 id chain
 id chains
+id checkBox
 id checkbox
 id checked
 id chip
@@ -2060,6 +2061,7 @@ id line1
 id line3
 id linear
 id listMode
+id listView
 id list_item
 id masked
 id match_constraint
@@ -2245,7 +2247,10 @@ id test_radiobutton_android_button_tint
 id test_radiobutton_app_button_tint
 id text
 id text2
+id textDescription
+id textEmail
 id textEnd
+id textName
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
@@ -2365,6 +2370,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_admin
 layout activity_main
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -2382,6 +2388,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout equipment_item
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider
@@ -2491,6 +2498,7 @@ string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
+string equipment_management
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
@@ -2498,6 +2506,7 @@ string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
+string mark_as_checked
 string material_clock_display_divider
 string material_clock_toggle_content_description
 string material_hour_selection

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ITsupport</string>
+
+        <string name="equipment_management">Equipment Management</string>
+        <string name="mark_as_checked">Marked as Checked</string>
+
 </resources>
